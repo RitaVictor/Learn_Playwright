@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Learn_Playwright",
+			"path": "../../Learn_Playwright"
+		}
+	],
+	"settings": {}
+}
